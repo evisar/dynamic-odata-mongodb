@@ -1,0 +1,12 @@
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\Wesent.MongoDb.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\Wesent.MongoDb.pdb
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\MongoDB.Bson.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\MongoDB.Driver.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\Wesent.Common.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\Wesent.Common.pdb
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\MongoDB.Bson.xml
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\bin\Debug\MongoDB.Driver.xml
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\obj\Debug\Wesent.MongoDb.csprojResolveAssemblyReference.cache
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\obj\Debug\Wesent.MongoDb.dll
+C:\wesent\Wesent.Api\wesent\Wesent.MongoDb\obj\Debug\Wesent.MongoDb.pdb

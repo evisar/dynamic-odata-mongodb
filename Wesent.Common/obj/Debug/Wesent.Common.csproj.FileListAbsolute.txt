@@ -1,0 +1,5 @@
+C:\wesent\Wesent.Api\wesent\Wesent.Common\bin\Debug\Wesent.Common.dll
+C:\wesent\Wesent.Api\wesent\Wesent.Common\bin\Debug\Wesent.Common.pdb
+C:\wesent\Wesent.Api\wesent\Wesent.Common\obj\Debug\Wesent.Common.csprojResolveAssemblyReference.cache
+C:\wesent\Wesent.Api\wesent\Wesent.Common\obj\Debug\Wesent.Common.dll
+C:\wesent\Wesent.Api\wesent\Wesent.Common\obj\Debug\Wesent.Common.pdb

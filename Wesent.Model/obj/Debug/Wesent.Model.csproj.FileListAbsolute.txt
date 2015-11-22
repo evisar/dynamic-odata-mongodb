@@ -1,0 +1,7 @@
+C:\wesent\Wesent.Api\wesent\Wesent.Model\bin\Debug\Wesent.Model.dll
+C:\wesent\Wesent.Api\wesent\Wesent.Model\bin\Debug\Wesent.Model.pdb
+C:\wesent\Wesent.Api\wesent\Wesent.Model\bin\Debug\Wesent.Common.dll
+C:\wesent\Wesent.Api\wesent\Wesent.Model\bin\Debug\Wesent.Common.pdb
+C:\wesent\Wesent.Api\wesent\Wesent.Model\obj\Debug\Wesent.Model.csprojResolveAssemblyReference.cache
+C:\wesent\Wesent.Api\wesent\Wesent.Model\obj\Debug\Wesent.Model.dll
+C:\wesent\Wesent.Api\wesent\Wesent.Model\obj\Debug\Wesent.Model.pdb
